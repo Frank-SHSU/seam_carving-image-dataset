@@ -1,0 +1,9 @@
+The original dataset is too large, we uploaded it to the following kaggle dataset link. You may download here. If you have any questions, contact me at liu@shsu.edu. Thank you!
+
+https://www.kaggle.com/datasets/liuqzsc/seam-carving-jpeg-image-forgery-dataset
+
+While you make use of the dataset, please cite the following papers.
+
+1. Q. Liu, "An Improved Approach to Exposing JPEG Seam Carving Under Recompression," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 7, pp. 1907-1918, July 2019, doi: 10.1109/TCSVT.2018.2859633.
+2. Q. Liu, "An approach to detecting JPEG down-recompression and seam carving forgery under recompression anti-forensics", Pattern Recognition, Volume 65, 2017, Pages 35-46, ISSN 0031-3203, https://doi.org/10.1016/j.patcog.2016.12.010.
+3. Celebi NH, Hsu TL, Liu Q. A comparison study to detect seam carving forgery in JPEG images with deep learning models. J Surveill Secur Saf 2022;2:88-100. http://dx.doi.org/10.20517/jsss.2022.02
